@@ -1,2 +1,2 @@
-# Programas-C
-Programas básicos desenvolvidos em C
+# Linguagem C
+Soluções de problemas e desafios básicos na linguagem C.
